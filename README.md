@@ -1,6 +1,6 @@
 # React + Vite + TailwindCS v4
 
-This template provides a minimal setup to get React working in Vite with HMR,some ESLint rules and tailwindcss v4.
+This template provides a minimal setup to get React working in Vite with HMR, some ESLint rules and tailwindcss v4.
 With react-router-dom.
 
 Currently, two official plugins are available:
